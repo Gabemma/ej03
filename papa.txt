@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Andres manuel canul uicab
 =======
 cris
 >>>>>>> areane
+=======
+Jose Gabriel Gonzalez Sanchez
+>>>>>>> gabriel
